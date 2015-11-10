@@ -1,0 +1,2139 @@
+{
+   "regular":{
+      "weeks":[
+         {
+            "number":"1",
+            "games":[
+               {
+                  "date":"2015-09-11T00:30:00+00:00",
+                  "place":"Gillette Stadium",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"New England Patriots",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Green Bay Packers",
+                  "home":"Chicago Bears",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Houston Texans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"MetLife Stadium",
+                  "visitor":"Cleveland Browns",
+                  "home":"New York Jets",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Buffalo Bills",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"Miami Dolphins",
+                  "home":"Washington Redskins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"EverBank Field",
+                  "visitor":"Carolina Panthers",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T17:00:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"Seattle Seahawks",
+                  "home":"St. Louis Rams",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T20:05:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"New Orleans Saints",
+                  "home":"Arizona Cardinals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T20:05:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Detroit Lions",
+                  "home":"San Diego Chargers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T20:25:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"Tennessee Titans",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T20:25:00+00:00",
+                  "place":"O.Com Coliseum",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Oakland Raiders",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-13T20:25:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Denver Broncos",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-14T00:30:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"New York Giants",
+                  "home":"Dallas Cowboys",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-14T01:10:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"Atlanta Falcons",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-15T02:20:00+00:00",
+                  "place":"Levi's Stadium",
+                  "visitor":"Minnesota Vikings",
+                  "home":"San Francisco 49ers",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"2",
+            "games":[
+               {
+                  "date":"2015-09-18T00:25:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"Denver Broncos",
+                  "home":"Kansas City Chiefs",
+                  "tv":"CBS",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Houston Texans",
+                  "home":"Carolina Panthers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Heinz Field",
+                  "visitor":"San Francisco 49ers",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"New Orleans Saints",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"Detroit Lions",
+                  "home":"Minnesota Vikings",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Arizona Cardinals",
+                  "home":"Chicago Bears",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"Buffalo Bills",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"San Diego Chargers",
+                  "home":"Cincinnati Bengals",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Tennessee Titans",
+                  "home":"Cleveland Browns",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Atlanta Falcons",
+                  "home":"New York Giants",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T17:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"St. Louis Rams",
+                  "home":"Washington Redskins",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T20:05:00+00:00",
+                  "place":"EverBank Field",
+                  "visitor":"Miami Dolphins",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T20:05:00+00:00",
+                  "place":"O.comm Coliseum",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Oakland Raiders",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-20T20:25:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"Dallas Cowboys",
+                  "home":"Philadelphia Eagles",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-21T00:30:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"Seattle Seahawks",
+                  "home":"Green Bay Packers",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-22T00:30:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"New York Jets",
+                  "home":"Indianapolis Colts",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"3",
+            "games":[
+               {
+                  "date":"2015-09-25T00:25:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Washington Redskins",
+                  "home":"New York Giants",
+                  "tv":"CBS/NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"Atlanta Falcons",
+                  "home":"Dallas Cowboys",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Tennessee Titans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Oakland Raiders",
+                  "home":"Cleveland Browns",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Baltimore Ravens",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"Gillette Stadium",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"New England Patriots",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"New Orleans Saints",
+                  "home":"Carolina Panthers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"New York Jets",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"Houston Texans",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"San Diego Chargers",
+                  "home":"Minnesota Vikings",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T17:00:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"St. Louis Rams",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T20:05:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"San Francisco 49ers",
+                  "home":"Arizona Cardinals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T20:25:00+00:00",
+                  "place":"Sun Life Stadium",
+                  "visitor":"Buffalo Bills",
+                  "home":"Miami Dolphins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-27T20:25:00+00:00",
+                  "place":"Century Link Field",
+                  "visitor":"Chicago Bears",
+                  "home":"Seattle Seahawks",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-09-28T00:30:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Denver Broncos",
+                  "home":"Detroit Lions",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-09-22T00:30:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Green Bay Packers",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"4",
+            "games":[
+               {
+                  "date":"2015-10-02T00:25:00+00:00",
+                  "place":"Hienz Field",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"CBS/NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-04T13:30:00+00:00",
+                  "place":"Wembley Stadium",
+                  "visitor":"New York Jets",
+                  "home":"Miami Dolphins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"Indianapolis Colts",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"New York Giants",
+                  "home":"Buffalo Bills",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"Carolina Panthers",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"Washington Redskins",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Oakland Raiders",
+                  "home":"Chicago Bears",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"Georgia DOme",
+                  "visitor":"Houston Texans",
+                  "home":"Atlanta Falcons",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T17:00:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Cincinnati Bengals",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T20:05:00+00:00",
+                  "place":"Qualcomm Stadium ",
+                  "visitor":"Cleveland Browns",
+                  "home":"San Diego Chargers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T20:25:00+00:00",
+                  "place":"Levis Stadium",
+                  "visitor":"Green Bay Packers",
+                  "home":"San Francisco 49ers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T20:05:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"St. Louis Rams",
+                  "home":"Arizona Cardinals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-04T20:25:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Denver Broncos",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-05T00:30:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Dallas Cowboys",
+                  "home":"New Orleans Saints",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-06T00:30:00+00:00",
+                  "place":"Century Link Field",
+                  "visitor":"Detroit Lions",
+                  "home":"Seattle Seahawks",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"5",
+            "games":[
+               {
+                  "date":"2015-10-08T00:25:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Houston Texans",
+                  "tv":"CBS/NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"Chicago Bears",
+                  "home":"Kansas City Chiefs",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"Seattle Seahawks",
+                  "home":"Cincinnati Bengals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"Washington Redskins",
+                  "home":"Atlanta Falcons",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"New Orleans Saints",
+                  "home":"Philadelphia Eagles",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"M&T Bank Field",
+                  "visitor":"Cleveland Browns",
+                  "home":"Baltimore Ravens",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"St. Louis Rams",
+                  "home":"Green Bay Packers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T17:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Buffalo Bills",
+                  "home":"Tennessee Titans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T20:05:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Arizona Cardinals",
+                  "home":"Detroit Lions",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T20:25:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"Dallas Cowboys",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-11T20:25:00+00:00",
+                  "place":"O.com Colisuem",
+                  "visitor":"Denver Broncos",
+                  "home":"Oakland Raiders",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-12T00:30:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"San Francisco 49ers",
+                  "home":"New York Giants",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-13T00:30:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"San Diego Chargers",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"6",
+            "games":[
+               {
+                  "date":"2015-10-16T00:25:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Atlanta Falcons",
+                  "home":"New Orleans Saints",
+                  "tv":"CBS/NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Washington Redskins",
+                  "home":"New York Jets",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"Heinz Field",
+                  "visitor":"Arizona Cardinals",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Minnesota Vikings",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Buffalo Bills",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Chicago Bears",
+                  "home":"Detroit Lions",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Denver Broncos",
+                  "home":"Cleveland Browns",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"EverBank Field",
+                  "visitor":"Houston Texans",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T17:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Miami Dolphins",
+                  "home":"Tennessee Titans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T20:05:00+00:00",
+                  "place":"Century Link Field",
+                  "visitor":"Carolina Panthers",
+                  "home":"Seattle Seahawks",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T20:25:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"San Diego Chargers",
+                  "home":"Green Bay Packers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-18T20:25:00+00:00",
+                  "place":"Levi's Stadium",
+                  "visitor":"Baltimore Ravens",
+                  "home":"San Francisco 49ers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-19T00:30:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"Indianapolis Colts",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-20T00:30:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"New York Giants",
+                  "home":"Philadelphia Eagles",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"7",
+            "games":[
+               {
+                  "date":"2015-10-23T00:25:00+00:00",
+                  "place":"Levi's Stadium",
+                  "visitor":"Seattle Seahawks",
+                  "home":"San Francisco 49ers",
+                  "tv":"CBS/NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-25T13:30:00+00:00",
+                  "place":"Wembley Stadium",
+                  "visitor":"Buffalo Bills",
+                  "home":"Jacksonville Jaguars",
+                  "tv":" ",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"Washington Redskins",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Atlanta Falcons",
+                  "home":"Tennessee Titans",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"New Orleans Saints",
+                  "home":"Indianapolis Colts",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Detroit Lions",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"Kansas City Chiefs",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"Cleveland Browns",
+                  "home":"St. Louis Rams",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"Sunlife Stadium",
+                  "visitor":"Houston Texans",
+                  "home":"Miami Dolphins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T17:00:00+00:00",
+                  "place":"Gillette Stadium",
+                  "visitor":"New York Jets",
+                  "home":"New England Patriots",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T20:05:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Oakland Raiders",
+                  "home":"San Diego Chargers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-25T20:25:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Dallas Cowboys",
+                  "home":"New York Giants",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-10-26T00:30:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"Carolina Panthers",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-10-27T00:30:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Arizona Cardinals",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"8",
+            "games":[
+               {
+                  "date":"2015-10-30T00:25:00+00:00",
+                  "place":"Gillette Stadium",
+                  "visitor":"Miami Dolphins",
+                  "home":"New England Patriots",
+                  "tv":"CBS/NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-01T14:30:00+00:00",
+                  "place":"Wembley Stadium",
+                  "visitor":"Detroit Lions",
+                  "home":"Kansas City Chiefs",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"Atlanta Falcons",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Arizona Cardinals",
+                  "home":"Cleveland Browns",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"San Francisco 49ers",
+                  "home":"St. Louis Rams",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"New York Giants",
+                  "home":"New Orleans Saints",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Chicago Bears",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"San Diego Chargers",
+                  "home":"Baltimore Ravens",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"Hienz Field",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T18:00:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"Tennessee Titans",
+                  "home":"Houston Texans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T21:05:00+00:00",
+                  "place":"O.com Coliseum",
+                  "visitor":"New York Jets",
+                  "home":"Oakland Raiders",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-01T21:25:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"Seattle Seahawks",
+                  "home":"Dallas Cowboys",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-02T01:30:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"Green Bay Packers",
+                  "home":"Denver Broncos",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-03T01:30:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Carolina Panthers",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"9",
+            "games":[
+               {
+                  "date":"2015-11-06T01:25:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"Cleveland Browns",
+                  "home":"Cincinnati Bengals",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-08T14:30:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Green Bay Packers",
+                  "home":"Carolina Panthers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T18:00:00+00:00",
+                  "place":"Gilette Stadium",
+                  "visitor":"Washington Redskins",
+                  "home":"New England Patriots",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T18:00:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Tennessee Titans",
+                  "home":"New Orleans Saints",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T18:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"Miami Dolphins",
+                  "home":"Buffalo Bills",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T18:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"St. Louis Rams",
+                  "home":"Minnesota Vikings",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"New York Jets",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T18:00:00+00:00",
+                  "place":"Heinz Field",
+                  "visitor":"Oakland Raiders",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T21:05:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"New York Giants",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T21:05:00+00:00",
+                  "place":"Levi's Stadium",
+                  "visitor":"Atlanta Falcons",
+                  "home":"San Francisco 49ers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-08T21:25:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"Denver Broncos",
+                  "home":"Indianapolis Colts",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-09T01:30:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"Dallas Cowboys",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-10T01:30:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Chicago Bears",
+                  "home":"San Diego Chargers",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"10",
+            "games":[
+               {
+                  "date":"2015-11-13T01:25:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Buffalo Bills",
+                  "home":"New York Jets",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"Detroit Lions",
+                  "home":"Green Bay Packers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"Dallas Cowboys",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Carolina Panthers",
+                  "home":"Tennessee Titans",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"Chicago Bears",
+                  "home":"St. Louis Rams",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"New Orleans Saints",
+                  "home":"Washington Redskins",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"Miami Dolphins",
+                  "home":"Philadelphia Eagles",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"Heinz Field",
+                  "visitor":"Cleveland Browns",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T18:00:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"Baltimore Ravens",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T21:05:00+00:00",
+                  "place":"O.com Coliseum",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Oakland Raiders",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T21:25:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"New York Giants",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-15T21:25:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Denver Broncos",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-16T01:30:00+00:00",
+                  "place":"Century Link Field",
+                  "visitor":"Arizona Cardinals",
+                  "home":"Seattle Seahawks",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-17T01:30:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"Houston Texans",
+                  "home":"Cincinnati Bengals",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"11",
+            "games":[
+               {
+                  "date":"2015-11-20T01:25:00+00:00",
+                  "place":"EverBank Field",
+                  "visitor":"Tennessee Titans",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Oakland Raiders",
+                  "home":"Detroit Lions",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Atlanta Falcons",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"New York Jets",
+                  "home":"Houston Texans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"Philadelphia Eagles",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Denver Broncos",
+                  "home":"Chicago Bears",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"Green Bay Packers",
+                  "home":"Minnesota Vikings",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"St. Louis Rams",
+                  "home":"Baltimore Ravens",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"SunLife Stadium",
+                  "visitor":"Dallas Cowboys",
+                  "home":"Miami Dolphins",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T18:00:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Washington Redskins",
+                  "home":"Carolina Panthers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T21:05:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Arizona Cardinals",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-22T21:25:00+00:00",
+                  "place":"Century Link Field",
+                  "visitor":"San Francisco 49ers",
+                  "home":"Seattle Seahawks",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-23T01:30:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"San Diego Chargers",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-24T01:30:00+00:00",
+                  "place":"Gilette Stadium",
+                  "visitor":"Buffalo Bills",
+                  "home":"New England Patriots",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"12",
+            "games":[
+               {
+                  "date":"2015-11-26T17:30:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"Detroit Lions",
+                  "tv":"FOX",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-26T21:30:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"Carolina Panthers",
+                  "home":"Dallas Cowboys",
+                  "tv":"CBS",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-27T01:30:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"Chicago Bears",
+                  "home":"Green Bay Packers",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"New Orleans Saints",
+                  "home":"Houston Texans",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"Paul brown Stadium",
+                  "visitor":"St. Louis Rams",
+                  "home":"Cincinnati Bengals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Atlanta Falcons",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"New York Giants",
+                  "home":"Washington Redskins",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"Indianapolis Colts",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"Buffalo Bills",
+                  "home":"Kansas City Chiefs",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Oakland Raiders",
+                  "home":"Tennessee Titans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"Everbank Field",
+                  "visitor":"San Diego Chargers",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Miami Dolphins",
+                  "home":"New York Jets",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T21:05:00+00:00",
+                  "place":"Levi's Stadiumm",
+                  "visitor":"Arizona Cardinals",
+                  "home":"San Francisco 49ers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-29T21:25:00+00:00",
+                  "place":"Century Link Field",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"Seattle Seahawks",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-11-30T01:30:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"New England Patriots",
+                  "home":"Denver Broncos",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-01T01:30:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Cleveland Browns",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"13",
+            "games":[
+               {
+                  "date":"2015-12-04T01:25:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"Green Bay Packers",
+                  "home":"Detroit Lions",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"New York Jets",
+                  "home":"New York Giants",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Edward Jones Stadium",
+                  "visitor":"Arizona Cardinals",
+                  "home":"St. Louis Rams",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"Atlanta Falcons",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Carolina Panthers",
+                  "home":"New Orleans Saints",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"Seattle Seahawks",
+                  "home":"Minnesota Vikings",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"Houston Texans",
+                  "home":"Buffalo Bills",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Sunlife Stadium",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Miami Dolphins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Cleveland Browns",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"Tennessee Titans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T18:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"San Francisco 49ers",
+                  "home":"Chicago Bears",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T21:05:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Denver Broncos",
+                  "home":"San Diego Chargers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T21:05:00+00:00",
+                  "place":"O.com Coliseum",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Oakland Raiders",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T21:25:00+00:00",
+                  "place":"Gilette Stadium",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"New England Patriots",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-06T01:30:00+00:00",
+                  "place":"Heinz Field",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-08T01:30:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"Dallas Cowboys",
+                  "home":"Washington Redskins",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"14",
+            "games":[
+               {
+                  "date":"2015-12-11T01:25:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Arizona Cardinals",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"Buffalo Bills",
+                  "home":"Philadelphia Eagles",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"First Energy Field",
+                  "visitor":"San Francisco 49ers",
+                  "home":"Cleveland Browns",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"Detroit Lions",
+                  "home":"St. Louis Rams",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"New Orleans Saints",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Tennessee Titans",
+                  "home":"New York Jets",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"Cincinnati Bengals",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"NRG Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"Houston Texans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Everbank Field",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"San Diego Chargers",
+                  "home":"Kansas City Chiefs",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-3T18:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Washington Redskins",
+                  "home":"Chicago Bears",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T18:00:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Atlanta Falcons",
+                  "home":"Carolina Panthers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T21:05:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"Oakland Raiders",
+                  "home":"Denver Broncos",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-13T21:25:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"Dallas Cowboys",
+                  "home":"Green Bay Packers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-14T01:30:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"Seattle Seahawks",
+                  "home":"Baltimore Ravens",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-15T01:30:00+00:00",
+                  "place":"Sunlife Stadium",
+                  "visitor":"New York Giants",
+                  "home":"Miami Dolphins",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"15",
+            "games":[
+               {
+                  "date":"2015-12-18T01:25:00+00:00",
+                  "place":"Edward Jones Dome",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"St. Louis Rams",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-20T01:25:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"New York Jets",
+                  "home":"Dallas Cowboys",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"Chicago Bears",
+                  "home":"Minnesota Vikings",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"Everbank Field",
+                  "visitor":"Atlanta Falcons",
+                  "home":"Jacksonville Jaguars",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"Houston Texans",
+                  "home":"Indianapolis Colts",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"Arizona Cardinals",
+                  "home":"Philadelphia Eagles",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Carolina Panthers",
+                  "home":"New York Giants",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"Gilette Stadium",
+                  "visitor":"Tennessee Titans",
+                  "home":"New England Patriots",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"FedEx Field",
+                  "visitor":"Buffalo Bills",
+                  "home":"Washington Redskins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T18:00:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"Kansas City Chiefs",
+                  "home":"Baltimore Ravens",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T21:05:00+00:00",
+                  "place":"CenturyLink Field",
+                  "visitor":"Cleveland Browns",
+                  "home":"Seattle Seahawks",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T21:05:00+00:00",
+                  "place":"O.comm Coliseum",
+                  "visitor":"Green Bay Packers",
+                  "home":"Oakland Raiders",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T21:25:00+00:00",
+                  "place":"Heinz Field",
+                  "visitor":"Denver Broncos",
+                  "home":"Pittsburgh Steelers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-20T21:25:00+00:00",
+                  "place":"Qualcomm Stadium",
+                  "visitor":"Miami Dolphins",
+                  "home":"San Diego Chargers",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-21T01:30:00+00:00",
+                  "place":"Levi's Stadium",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"San Francisco 49ers",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-22T01:30:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Detroit Lions",
+                  "home":"New Orleans Saints",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"16",
+            "games":[
+               {
+                  "date":"2015-12-25T01:25:00+00:00",
+                  "place":"O.comm Coliseum",
+                  "visitor":"San Diego Chargers",
+                  "home":"Oakland Raiders",
+                  "tv":"CBS",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-27T01:25:00+00:00",
+                  "place":"Lincoln Financial Field",
+                  "visitor":"Washington Redskins",
+                  "home":"Philadelphia Eagles",
+                  "tv":"NFL Network",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"New York Jets",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"LP Field",
+                  "visitor":"Houston Texans",
+                  "home":"Tennessee Titans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"Cleveland Browns",
+                  "home":"Kansas City Chiefs",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Sunlife Stadium",
+                  "visitor":"Indianapolis Colts",
+                  "home":"Miami Dolphins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Superdome",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"New Orleans Saints",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Ford Field",
+                  "visitor":"San Francisco 49ers",
+                  "home":"Detroit Lions",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"Dallas Cowboys",
+                  "home":"Buffalo Bills",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Raymond James Stadium",
+                  "visitor":"Chicago Bears",
+                  "home":"Tampa Bay Buccaneers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"Carolina Panthers",
+                  "home":"Atlanta Falcons",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T18:00:00+00:00",
+                  "place":"TCF Bank Stadium",
+                  "visitor":"New York Giants",
+                  "home":"Minnesota Vikings",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T21:25:00+00:00",
+                  "place":"CenturyLink Stadium",
+                  "visitor":"St. Louis Rams",
+                  "home":"Seattle Seahawks",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-27T21:25:00+00:00",
+                  "place":"University Of Phoenix Stadium",
+                  "visitor":"Green Bay Packers",
+                  "home":"Arizona Cardinals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-12-28T01:30:00+00:00",
+                  "place":"M&T Bank Stadium",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"Baltimore Ravens",
+                  "tv":"NBC",
+                  "primtetime":"true"
+               },
+               {
+                  "date":"2015-12-29T01:30:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"Cincinnati Bengals",
+                  "home":"Denver Broncos",
+                  "tv":"ESPN",
+                  "primtetime":"true"
+               }
+            ]
+         },
+         {
+            "number":"17",
+            "games":[
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Ralph Wilson Stadium",
+                  "visitor":"New York Jets",
+                  "home":"Buffalo Bills",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Sunlife Stadium",
+                  "visitor":"New England Patriots",
+                  "home":"Miami Dolphins",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Bank Of America Stadium",
+                  "visitor":"Tampa Bay Buccaneers",
+                  "home":"Carolina Panthers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Georgia Dome",
+                  "visitor":"New Orleans Saints",
+                  "home":"Atlanta Falcons",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Paul Brown Stadium",
+                  "visitor":"Baltimore Ravens",
+                  "home":"Cincinnati Bengals",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"First Energy Stadium",
+                  "visitor":"Pittsburgh Steelers",
+                  "home":"Cleveland Browns",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Reliant Texans",
+                  "visitor":"Jacksonville Jaguars",
+                  "home":"Houston Texans",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Lucas Oil Stadium",
+                  "visitor":"Tennessee Titans",
+                  "home":"Indianapolis Colts",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Arrowhead Stadium",
+                  "visitor":"Oakland Raiders",
+                  "home":"Kansas City Chiefs",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"AT&T Stadium",
+                  "visitor":"Washington Redskins",
+                  "home":"Dallas Cowboys",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Metlife Stadium",
+                  "visitor":"Philadelphia Eagles",
+                  "home":"New York Giants",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Solider Field",
+                  "visitor":"Detroit Lions",
+                  "home":"Chicago Bears",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T18:00:00+00:00",
+                  "place":"Lambeau Field",
+                  "visitor":"Minnesota Vikings",
+                  "home":"Green Bay Packers",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T21:25:00+00:00",
+                  "place":"Sports Authority Field",
+                  "visitor":"San Diego Chargers",
+                  "home":"Denver Broncos",
+                  "tv":"CBS",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T21:25:00+00:00",
+                  "place":"University OF Phoenix Stadium",
+                  "visitor":"Seattle Seahawks",
+                  "home":"Arizona Cardinals",
+                  "tv":"FOX",
+                  "primtetime":""
+               },
+               {
+                  "date":"2015-01-03T21:25:00+00:00",
+                  "place":"Levi's Stadium",
+                  "visitor":"St. Louis Rams",
+                  "home":"San Francisco 49ers",
+                  "tv":"FOX",
+                  "primtetime":""
+               }
+            ]
+         }
+      ]
+   }
+}

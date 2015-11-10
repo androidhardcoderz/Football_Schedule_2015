@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/this_week_games" android:title="Games This Week"></item>
+    <item android:id="@+id/standings" android:title=" League Standings"></item>
+
+    <item android:title="AFC">
+        <menu>
+            <item android:title="Baltimore Ravens" android:id="@+id/baltimore_ravens" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Buffalo Bills" android:id="@+id/buffalo_bills" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Cincinnati Bengals" android:id="@+id/cincinnati_bengals" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Cleveland Browns" android:id="@+id/cleveland_browns" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Denver Broncos" android:id="@+id/denver_broncos" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Houston Texans" android:id="@+id/houston_texans" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Indianapolis Colts" android:id="@+id/indianapolis_colts" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Jacksonville Jaguars" android:id="@+id/jacksonville_jaguars" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Kansas City Chiefs" android:id="@+id/kansas_city_chiefs" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Miami Dolphins" android:id="@+id/miami_dolphins" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="New England Patriots" android:id="@+id/new_england_patriots" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="New York Jets" android:id="@+id/new_york_jets" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Oakland Raiders" android:id="@+id/oakland_raiders" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Pittsburgh Steelers" android:id="@+id/pittsburgh_steelers" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="San Diego Chargers" android:id="@+id/san_diego_chargers" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Tennessee Titans" android:id="@+id/tennessee_titans" android:icon="@drawable/custom_drawer_icon"/>
+
+        </menu>
+
+    </item>
+
+    <item android:title="NFC">
+        <menu>
+            <item android:title="Arizona Cardinals" android:id="@+id/arizona_cardinals" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Atlanta Falcons" android:id="@+id/atlanta_falcons" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Carolina Panthers" android:id="@+id/carolina_panthers" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Chicago Bears" android:id="@+id/chicago_bears" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Dallas Cowboys" android:id="@+id/dallas_cowboys" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Detroit Lions" android:id="@+id/detroit_lions" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Green Bay Packers" android:id="@+id/green_bay_packers" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Minnesota Vikings" android:id="@+id/minnesota_vikings" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="New Orleans Saints" android:id="@+id/new_orleans_saints" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="New York Giants" android:id="@+id/new_york_giants" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Philadelphia Eagles" android:id="@+id/philadelphia_eagles" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="San Francisco 49ers" android:id="@+id/san_francisco_49ers" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Seattle Seahawks" android:id="@+id/seattle_seahawks" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="St. Louis Rams" android:id="@+id/st_louis_rams" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Tampa Bay Buccaneers" android:id="@+id/tampa_bay_buccaneers" android:icon="@drawable/custom_drawer_icon"/>
+            <item android:title="Washington Redskins" android:id="@+id/washington_redskins" android:icon="@drawable/custom_drawer_icon"/>
+
+        </menu>
+    </item>
+
+</menu>

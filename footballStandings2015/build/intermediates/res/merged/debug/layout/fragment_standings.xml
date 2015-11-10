@@ -1,0 +1,15 @@
+<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.view.PagerTitleStrip
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:background="#0094FF" 
+        android:textColor="@android:color/white" />
+
+</android.support.v4.view.ViewPager><!-- From: file:/C:/Users/Scott/StudioProjects/FootballSchedule20152/footballStandings2015/src/main/res/layout/fragment_standings.xml -->
